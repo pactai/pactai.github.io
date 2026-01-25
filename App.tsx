@@ -10,10 +10,10 @@ const App: React.FC = () => {
           className="h-20 md:h-28 mx-auto"
         />
         <a
-          href="mailto:dev.pactai@gmail.com"
+          href="mailto:hello@usepact.ai"
           className="mt-12 inline-block text-slate-600 hover:text-teal-600 text-sm tracking-wide transition-colors"
         >
-          dev.pactai@gmail.com
+          hello@usepact.ai
         </a>
       </div>
     </div>
